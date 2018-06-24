@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="lighter_gray">#ddd</color>
+    <color name="darker_gray">#aaa</color>
+    <color name="colorDarkGreen">#006400</color>
+    <color name="colorGreen">#008000</color>
+    <color name="colorLightGreen">#228B22</color>
+    <color name="colorLightLightGreen">#419441</color>
+    <color name="greyDark800">#424242</color>
+    <color name="greyDark700">#616161</color>
+    <color name="greyDark600">#757575</color>
+    <color name="greyDark500">#9D9D9D</color>`
+    <color name="greyDark400">#bdbdbd</color>
+    <color name="greyDark300">#E0E0E0</color>
+    <color name="greyDark200">#EEEEEE</color>
+    <color name="greyDark100">#F5F5F5</color>
+    <color name="greyNew">#7c7c7c</color>
+    <color name="transparent">#00000000</color>
+    <color name="holo_red_light">#ffff4444</color>
+    <color name="holo_red_dark">#ffcc0000</color>
+    <color name="holo_purple">#ffaa66cc</color>
+    <color name="holo_orange_light">#ffffbb33</color>
+    <color name="holo_orange_dark">#ffff8800</color>
+    <color name="highlighted_text_holo_dark">#6633b5e5</color>
+    <color name="highlighted_text_holo_light">#6633b5e5</color>
+    <color name="camera_outer_color">#99000000</color>
+</resources>
