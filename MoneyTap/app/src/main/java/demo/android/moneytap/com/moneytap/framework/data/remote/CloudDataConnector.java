@@ -32,7 +32,7 @@ public class CloudDataConnector {
     }
 
     /**
-     * Method calling Retrofit api for getting the response for get Questions
+     * Method calling Retrofit api for getting the response for get Wiki 
      * List
      *
      * @param responseHandler : Response Handler
