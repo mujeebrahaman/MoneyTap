@@ -14,9 +14,6 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-/**
- * Created by mujeeb on 26/01/17.
- */
 /*To get retrofit instance*/
 public class ServiceGenerator {
     private static Retrofit retrofit;
