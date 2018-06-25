@@ -4,10 +4,7 @@ import java.util.ArrayList;
 
 import demo.android.moneytap.com.moneytap.framework.model.Model;
 
-/**
- * Created by mujeeb on 26/01/17.
- */
-/*To get questions, multiple choices and other details*/
+/*To get content data or details*/
 
 public class GetContentData implements Model {
 
