@@ -1,9 +1,5 @@
 package demo.android.moneytap.com.moneytap.widgets;
 
-/**
- * Created by mujeeb on 24-Jun-18.
- */
-
 import android.animation.Animator;
 import android.app.Activity;
 import android.content.Context;
@@ -42,7 +38,7 @@ import demo.android.moneytap.com.moneytap.utils.CommonUtils;
 
 
 /**
- * Created by mujeeb on 1/8/2016.
+ * Created by mujeeb on 24-Jun-18.
  */
 
 public class MaterialSearchView extends FrameLayout implements View.OnClickListener {
