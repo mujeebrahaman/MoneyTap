@@ -8,9 +8,6 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-/**
- * Created by mujeeb on 26/01/17.
- */
 /* to call web api */
 public class CloudDataConnector {
 
