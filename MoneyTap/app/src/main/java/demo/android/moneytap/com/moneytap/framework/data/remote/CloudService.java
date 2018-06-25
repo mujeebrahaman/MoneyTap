@@ -9,9 +9,6 @@ import retrofit2.http.FormUrlEncoded;
 import retrofit2.http.Headers;
 import retrofit2.http.POST;
 
-/**
- * Created by mujeeb on 26/01/17.
- */
 /* Interface Api service */
 public interface CloudService {
 
