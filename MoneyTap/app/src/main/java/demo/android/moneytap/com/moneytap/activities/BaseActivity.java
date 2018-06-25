@@ -1,10 +1,6 @@
 
 package demo.android.moneytap.com.moneytap.activities;
 
-/**
- * Created by mujeeb on 24-Jun-18.
- */
-
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.drawable.Drawable;
@@ -17,7 +13,7 @@ import android.widget.RelativeLayout;
 import demo.android.moneytap.com.moneytap.R;
 
 /**
- * Created by mujeeb on 5/10/16.
+ * Created by mujeeb on 24-Jun-18.
  */
 public class BaseActivity extends AppCompatActivity {
 
