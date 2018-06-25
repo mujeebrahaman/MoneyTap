@@ -11,8 +11,9 @@ import android.view.inputmethod.InputMethodManager;
 
 
 /**
- * Created by mujeeb on 21/11/16.
+ * Created by mujeeb on 24-Jun-18.
  */
+
 public class CommonUtils {
 
     private static long mStartTime = 0;
